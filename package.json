@@ -11,5 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "moment": "2.22.2"
+  },
+  "goscript": {
+    "start": "index.js",
+    "stop": "",
+    "configure": ""
   }
 }
