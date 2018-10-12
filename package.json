@@ -15,6 +15,7 @@
   "goscript": {
     "start": "index.js",
     "stop": "",
-    "configure": ""
+    "configure": "",
+    "rpc": ""
   }
 }
